@@ -20,7 +20,6 @@ import static org.junit.Assert.assertThat;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-@DirtiesContext
 public class SimpleObjectTest {
 	
 	private UiUtils ui;
